@@ -24,7 +24,7 @@ export default {
       searchVal: "",
       items: [
         {
-          name: "上海1",
+          name: "上海",
           value: "sh"
         },
         {
